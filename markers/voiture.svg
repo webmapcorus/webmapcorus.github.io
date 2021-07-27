@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1"
+	 id="svg2060" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:ns1="http://sozi.baierouge.fr" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="612px" height="792px"
+	 viewBox="0 0 612 792" enable-background="new 0 0 612 792" xml:space="preserve">
+<path id="path2072" d="M306.053,544.5H140.761v52.162c0,63.5-91.862,64.256-91.862,0V544.5H0.005V381.149
+	c0-43.844,35.267-67.014,55.183-69.542l50.269-128.394c9.464-24.449,29.97-45.346,68.615-45.346
+	c253.908-0.337,10.773,0.006,263.813,0c38.646,0,59.151,20.897,68.615,45.346l50.276,128.393
+	c19.916,2.528,55.219,25.698,55.219,69.542v163.352h-48.893v52.162c0,64.255-91.863,63.499-91.863,0v-52.162H305.948L306.053,544.5z
+	"/>
+<g id="g2074" transform="translate(0 -33.974)">
+	<path id="path2076" fill="#FFFFFF" d="M305.945,347.416H107.229l37.854-99.342c4.732-14.196,11.833-24.449,28.396-24.602h264.997
+		c16.563,0.153,23.66,10.406,28.393,24.602l37.854,99.342H305.941H305.945z"/>
+	<g id="g2078">
+		<g id="g2080">
+			<path id="path2082" fill="#FFFFFF" d="M96.287,483.464c-23.433,0-42.433-19.388-42.433-43.299s19-43.297,42.433-43.297
+				c23.434,0,42.431,19.386,42.431,43.297S119.72,483.464,96.287,483.464z"/>
+		</g>
+		<g id="g2086">
+			<path id="path2088" fill="#FFFFFF" d="M515.687,483.464c23.433,0,42.431-19.388,42.431-43.299s-18.998-43.297-42.431-43.297
+				c-23.434,0-42.433,19.386-42.433,43.297S492.253,483.464,515.687,483.464z"/>
+		</g>
+	</g>
+</g>
+<text transform="matrix(1.4448 0 0 1 126.0625 471.7529)" fill="#931A1D" font-family="'MyriadPro-Regular'" font-size="535.8665">x</text>
+</svg>
